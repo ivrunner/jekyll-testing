@@ -6,7 +6,7 @@ categories: [jekyll, grunt, web performance]
 post: true
 ---
 
-I have started developing static sites with [Jekyll](http://jekyllrb.com/) in May. For everyone who don't know what it is:
+Blarg I have started developing static sites with [Jekyll](http://jekyllrb.com/) in May. For everyone who don't know what it is:
 
 > Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.
 

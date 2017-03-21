@@ -5,13 +5,13 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 21 Mar 2017 09:09:57 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 09:09:57 -0400</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2017 10:44:45 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 10:44:45 -0400</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
         <title>Optimized Jekyll site with Grunt</title>
-        <description>&lt;p&gt;I have started developing static sites with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; in May. For everyone who don’t know what it is:&lt;/p&gt;
+        <description>&lt;p&gt;Blarg I have started developing static sites with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; in May. For everyone who don’t know what it is:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
