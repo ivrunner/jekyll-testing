@@ -11,15 +11,15 @@ Template for optimized Jekyll site or blog with Grunt
 
 
 Install Bourbon:
-'gem install Bourbon'
-'bourbon install'
+`gem install bourbon`
+`bourbon install`
 
-Add '@import 'bourbon/bourbon';' to main.scss file.
+Add `@import 'bourbon/bourbon';` to main.scss file.
 NOTE: Bourbon must be installed in same directory as main.scss
 
 Install Neat:
-'gem install neat'
-'neat install'
+`gem install neat`
+`neat install`
 
-Add '@import 'neat/neat';' to main.scss file. Place below '@import 'bourbon/bourbon';'
+Add `@import 'neat/neat';` to main.scss file. Place below `@import 'bourbon/bourbon'`
 NOTE: Neat must be installed in same directory as main.scss
